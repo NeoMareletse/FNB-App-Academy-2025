@@ -1,1 +1,1 @@
-This an super hero created by FNB App Academy for educational purposes.
+This an super hero app created by FNB App Academy for educational purposes.
